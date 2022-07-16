@@ -1,8 +1,4 @@
-# CODEALI
-## _TUTORIALS_
-
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# CODEALI | Tutorials
 
 Hier findest du den gesammten Source Code was wir in den
 Youtube Videos Programmieren...
