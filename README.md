@@ -6,10 +6,10 @@ Mein Youtube: https://www.youtube.com/channel/UC48749SRiQHSDp04zh97QoA
 - Kostenlos
 - 100% Funktionierenden Source Code
 
-## Plugins
+## Tutorials
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+Hier sind alle meine Tutorials gelistet.
+Du kannst sie ganz einfach downloaded oder verwenden.
 
 | Tutorials | Pfad |
 | ------ | ------ |
