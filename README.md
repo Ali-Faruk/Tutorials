@@ -13,7 +13,7 @@ Instructions on how to use them in your own application are linked below.
 
 | Tutorials | Pfad |
 | ------ | ------ |
-| IP Logger | [IP Logger/index.php][PlDb] |
+| IP Logger | [Tutorials/IP Logger/index.php][PlDb] |
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -31,7 +31,7 @@ Instructions on how to use them in your own application are linked below.
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlDb]: <https://github.com/Ali-Faruk/Tutorials/blob/main/IP%20Logger/index.php>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
